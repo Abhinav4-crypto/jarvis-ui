@@ -1,0 +1,11 @@
+{
+  "wakeWord": {
+    "phrase": "Jarvis",
+    "enabled": true,
+    "sensitivity": "medium"
+  },
+  "voice": {
+    "language": "hinglish",
+    "backgroundListeningEnabled": true
+  }
+}

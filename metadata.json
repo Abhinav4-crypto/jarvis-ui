@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS — Your AI Companion",
+  "description": "A futuristic obsidian and golden-amber AI companion workspace with voice interaction, conversational chat, local file inspection, vision analysis, web search, system monitoring, and floating desktop dock.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
